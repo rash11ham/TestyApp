@@ -5,7 +5,7 @@ const URL = 'https://api.spoonacular.com/recipes/complexSearch'
 
 //not safe to put api key here
 //better to put them in .env
-const API_KEY = '528f6679e28f46429ad218f1b09d6553'
+
 
 export default function Search({ foodData, setFoodData }) {
 
